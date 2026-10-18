@@ -1,0 +1,4 @@
+interface:
+  display_name: "Z Jack Work Assignments"
+  short_description: "Record selected assignments and conversation milestones"
+  default_prompt: "Use $z-jack-work-assignments to record this assignment in Jack-Work and link this conversation."
